@@ -20,12 +20,12 @@ export default defineConfig({
         { text: '全集', link: 'docs/article/total'},
         { text: '注释全集', link: 'docs/article/annotation'}
       ]},
-      { text: '将军专区', link: 'docs/general/' },
+      { text: '将军专区', link: 'docs/general/index' },
       { text: '教材与习题集', items: [
         { text: '教材', link: 'docs/material/textbook/' },
         { text: '英语试题', link: 'docs/material/englishexam/' }
       ]},
-      { text: '其他', link: 'docs/other'},
+      { text: '其他', link: 'docs/other/index'},
       { text: '关于', link: 'docs/about'}
     ],
 
