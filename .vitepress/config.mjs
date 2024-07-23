@@ -25,7 +25,7 @@ export default defineConfig({
         { text: '教材', link: 'docs/material/textbook/' },
         { text: '英语试题', link: 'docs/material/englishexam/' }
       ]},
-      { text: '其他', link: 'docs/other/index'},
+      { text: '其他', link: 'docs/other'},
       { text: '关于', link: 'docs/about'}
     ],
 
