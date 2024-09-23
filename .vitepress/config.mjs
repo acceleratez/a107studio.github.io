@@ -20,10 +20,14 @@ export default defineConfig({
         { text: '全集', link: 'docs/article/total'},
         { text: '注释全集', link: 'docs/article/annotation'}
       ]},
-      { text: '将军专区', link: 'docs/general/index' },
+      { text: '将军专区', items:[
+        { text: '将军首页', link: 'docs/general/index' },
+        { text: '将军作文纸条', link: 'docs/general/zhitiao' },
+        { text: '抽象人物志：将军', link: 'docs/general/biography' },
+      ]},
       { text: '教材与习题集', items: [
-        { text: '教材', link: 'docs/material/textbook/' },
-        { text: '英语试题', link: 'docs/material/englishexam/' }
+        { text: '教材', link: 'docs/material/textbook' },
+        { text: '英语试题', link: 'docs/material/englishexam' }
       ]},
       { text: '其他', link: 'docs/other'},
       { text: '关于', link: 'docs/about'}
