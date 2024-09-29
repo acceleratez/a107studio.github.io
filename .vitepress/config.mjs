@@ -16,18 +16,18 @@ export default defineConfig({
         { text: '小说', link: 'docs/wangbin/novel' },
         { text: '学士学位论文', link: 'docs/wangbin/thesis' }
       ]},
-      { text: '盈篇满籍系列', items: [
-        { text: '全集', link: 'docs/article/total'},
-        { text: '注释全集', link: 'docs/article/annotation'}
+      { text: '呕心沥血集', items: [
+        { text: '全集', link: 'docs/dedication/total'},
+        { text: '注释全集', link: 'docs/dedication/annotation'},
+        { text: '英语试题', link: 'docs/dedication/englishexam' }
       ]},
       { text: '将军专区', items:[
         { text: '将军首页', link: 'docs/general/index' },
-        { text: '将军作文纸条', link: 'docs/general/zhitiao' },
-        { text: '抽象人物志：将军', link: 'docs/general/biography' },
+        { text: '将军作文纸条', link: 'docs/general/zhitiao' }
       ]},
-      { text: '教材与习题集', items: [
-        { text: '教材', link: 'docs/material/textbook' },
-        { text: '英语试题', link: 'docs/material/englishexam' }
+      { text: '抽象人物志', items: [
+        { text: '抽象人物志：将军', link: 'docs/biography/general' },
+        { text: '抽象人物志：田师', link: 'docs/biography/tianshi' },
       ]},
       { text: '其他', link: 'docs/other'},
       { text: '关于', link: 'docs/about'}
