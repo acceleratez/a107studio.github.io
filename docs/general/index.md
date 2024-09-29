@@ -6,7 +6,7 @@
 
 [作文纸条](./zhitiao.md)
 
-[抽象人物志](./biography.md)
+[抽象人物志](../biography/general.md)
 
 :::
 
