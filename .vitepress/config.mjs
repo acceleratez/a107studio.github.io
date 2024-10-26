@@ -28,6 +28,7 @@ export default defineConfig({
       { text: '抽象人物志', items: [
         { text: '抽象人物志：将军', link: 'docs/biography/general' },
         { text: '抽象人物志：田师', link: 'docs/biography/tianshi' },
+        { text: '抽象人物志：海客', link: 'docs/biography/haike' }
       ]},
       { text: '其他', link: 'docs/other'},
       { text: '关于', link: 'docs/about'}
