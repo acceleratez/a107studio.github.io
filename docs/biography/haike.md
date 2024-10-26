@@ -15,6 +15,8 @@
 
 然而，在高一的语文课上，刚刚噫吁嚱（yi xu hu）完的鼠辈们，无论如何也想不到，海客会以另一种姿态，穿越尘封的历史，向我们走来。
 
+<img src="../assets/haike.jpg">
+
 
 
 ## 2 生平
@@ -204,7 +206,7 @@
 
 第二件事，则是海客一家齐上场的事情了。具体内容不用多讲，应该看一张图片就知道了罢。也就是只凭借这一张图，就直接承包了鼠鼠那一天和下一天的笑点，以至于大家线下复课后，相互见了面都是在玩这个meme🤣🤣🤣
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=125e64a44af431adbcd243317b37ac0f/72c950f3b211931310977e8623380cd790238db8.jpg?tbpicau=2024-10-10-05_c90ec63984cf1f38dd5210e58e8c67ff)
+<img src="../assets/unity.jpg">
 
 不得不说，这是凤君最正义的一集，让我们向蔡老师致敬。
 
@@ -228,18 +230,16 @@
 
 在场的鼠鼠萌全蚌埠住了，而牛子一边和海客正常聊着天，一边又听着鼠鼠萌的指示。本鼠趁机抢拍到了海客的图片。
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=8536f316ff12c8fcb4f3f6c5cc0292b4/f0420c87c9177f3e90b47d3b36cf3bc79e3d5694.jpg?tbpicau=2024-10-10-05_7edd99ba0aeac2b04da742c13e2d92ab)
-
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=cfadc7f6c4025aafd3327ec3cbecab8d/b6a17f0635fae6cd65372a5749b30f2443a70f94.jpg?tbpicau=2024-10-10-05_1ab914e00c8ba532d0ae1fddd7838833)
-
-
+不过这个容易引起生理不适，这里就不放到上面去了。
 
 没想到，海客还是一样的那什么。大家也没有理他，只是简单地说了几句就过去了。
 
 后记：那个夏天过去了，海客，和那一副类人的皮囊也一同消失了。或许大家都不清楚海客去了哪里——有人说去了保定；也有人说去了动物园——但不管怎样，骇客终究是在本鼠的记忆里慢慢的消失了。也许多年以后，本鼠在回味起来的时候，也就只能从本帖和光哥写的《抽游记》里找到放浪于形骸之外的海客罢。
 
-[^1]: [海客的解释|海客的意思|汉典“海客”词语的解释 (zdic.net)](https://www.zdic.net/hans/海客) ↩
-[^2]: [Villager – Minecraft Wiki](https://minecraft.wiki/w/Villager)
-[^3]: [Lamarckism | Britannica](https://www.britannica.com/science/evolution-scientific-theory)
-[^4]: [监守者 - 中文 Minecraft Wiki](https://zh.minecraft.wiki/w/循声守卫)
-[^5]: [【名场面】WoW～Awesome～OK～这是我独享的Moment～_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cv411z7Nd/)
+
+
+> 1. [海客的解释|海客的意思|汉典“海客”词语的解释 (zdic.net)](https://www.zdic.net/hans/海客) 
+> 2. [Villager – Minecraft Wiki](https://minecraft.wiki/w/Villager)
+> 3. [Lamarckism | Britannica](https://www.britannica.com/science/evolution-scientific-theory)
+> 4. [监守者 - 中文 Minecraft Wiki](https://zh.minecraft.wiki/w/循声守卫)
+> 5. [【名场面】WoW～Awesome～OK～这是我独享的Moment～_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Cv411z7Nd/)

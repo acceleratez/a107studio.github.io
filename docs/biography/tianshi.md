@@ -1,6 +1,6 @@
 # 107抽象人物志：田师
 
-![img](http://www.ayyz.cn/d/file/p/2018-09-11/b1924e7d33567f2a1bdb330d87ce6ef4.jpg)
+<img src="http://www.ayyz.cn/d/file/p/2018-09-11/b1924e7d33567f2a1bdb330d87ce6ef4.jpg">
 
 ## 1 田师的简要介绍
 
@@ -31,7 +31,6 @@
 >
 > 平行线分线段成比例定理指的是两条直线被一组平行线（不少于3条）所截，截得的对应线段的长度成比例。推论：平行于三角形一边的直线，截其他两边（或两边延长线）所得的对应线段成比例。[^4]
 >
-> ![img](https://bkimg.cdn.bcebos.com/pic/0d338744ebf81a4cc32e760adc2a6059242da6d1?x-bce-process=image/format,f_auto/resize,m_lfit,limit_1,h_470)
 
 一刻也没有为证不出平行线分线段成比例定理而感到哀悼，立刻感到战场的是——定差幂线定理、张角地理（对，就是地理）！不出所料，田师又是不会证。
 
@@ -131,7 +130,9 @@
 
 本鼠在上课的过程中，时不时地能听到救护车的声音。耳机内外同时响起救护车的声音，让本鼠感到很是诧异。没过多久，2021年高联开始报名，当看到报名表的投寄地址，本鼠知道，线下单杀田师的机会来了。那一坨脱毛不干净的肉仍在我们小区门前摊着，那一个上午让晴朗的夏日多了一丝阴霾。
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=f39a872b922a283443a636036bb4c92e/2bcc591ebe096b6365e7c9664a338744eaf8ac92.jpg?tbpicau=2024-10-10-05_3430ceb7251195afd20f95aa6e6bee2f)
+<img src="../assets/ts-21summer.jpg">
+
+
 
 上面是和另外的一个鼠鼠的聊天记录。话说回来。田师在这一阶段抽象的具体内容是：用洗澡声当背景板；左手边放答案右手将答案搬到屏幕里面；在公屏下看报；用自己不知道**搁哪拾嘞**荣誉证书当垫板和重中之重——蚏蝶定理。
 
@@ -139,9 +140,9 @@
 
 8月3日，数竞省一的z同学率先发现了田师的”错误定理“，并po到了班级群里。BY率先发现了蚏这个字的奥秘之处，而杰哥独树一帜，揭示了该定理在文学方面的应用。
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=242814fb1466d0167e199e20a72ad498/b3cf7d89d43f8794b931df18941b0ef41ad53a41.jpg?tbpicau=2024-10-10-05_4afaa55fc3030764ea61a77fa7669a4c)
+<img src="../assets/yuedie1.jpg">
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=82b8731535f082022d9291377bfafb8a/8a923c2ad40735fac93ed98fd8510fb30e240841.jpg?tbpicau=2024-10-10-05_0da8ba39fbade219cc3ed5523456e6c1)
+<img src="../assets/yuedie2.jpg">
 
 > 有个女记者曾问我，是什么缘由让你这样喜欢和那些昆虫们生活在一起的？我并没有很认真的回答她，反正也没人会去关心这些。不过缘由还是有的。看完《燕尾蝶》的那个晚上，我做了一个梦，我的梦即如同我现在所看到的一切。我梦到了一只我从没有见过的蝶。我从未曾见过这样的蝴蝶，我想说出她的名字，但我根本不知道她叫什么。她是一种会散发出璀璨光芒的蝶，在无尽的黑暗之中所闪烁的光。她更像是精灵。
 >
@@ -195,9 +196,11 @@ Ps:值得注意的是，蒙日定理是我们考试的内容。所以在考试�
 
 下面是我和吧主（酸菜鱼）的吐槽：
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=25b915fb1466d0167e199e20a72bd498/b3cf7d89d43f8794b8a0de18941b0ef41bd53a30.jpg?tbpicau=2024-10-10-05_c476652bf727391d15d20a7a8a52fc3b)
+<img src="../assets/mengricong1.jpg">
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=2946081ed12bd40742c7d3f54b899e9c/8548d61fd21b0ef43bb70e689bc451da81cb3e30.jpg?tbpicau=2024-10-10-05_064807853be81153c4fa90b3c53f63d6)
+<img src="../assets/mengricong2.jpg">
+
+
 
 ## 10 数学课？文学课！
 
@@ -207,7 +210,7 @@ Ps:值得注意的是，蒙日定理是我们考试的内容。所以在考试�
 
 不得不说，不等式是人类数学史上的一个伟大发明。不等式贯穿着人类的发展：从三角不等式、Cauchy-Schwarz不等式到Jensen不等式、Holder不等式，再到21世纪的唐妞不等式，虽然形式一直在改变，但是，它解释世界这一属性却没有变。比如说：接受礼物≠我同意 之类的。
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=853368e930094b36db921be593cd7c00/b2991b7fca806538b8493225d1dda144ac3482f5.jpg?tbpicau=2024-10-10-05_edae4fa861b3568ac8bf3ab43980356d)
+<img src="../assets/tangniu.jpg">
 
 2021年11月。田师最近是迷上看报了，它每次上课都会拿出新鲜出炉的《南方周末》仔细品鉴一番。😀可能，中年男士的魅力大抵就在这里吧。但是，田师是行将就木的老年人士。某一次上课，田师就像被附魔了一样，直接开问大家写文章的事情。它鼓励大家写文章向报社投稿，指导老师写成自己的，这样还能~~**赚一笔稿费**~~让自己灵活就业。兲史又回忆起来了自己以前高中同学创作的文章：《大戏台子四方方》。但是兲史仿正在给人寇一般，嘴里含糊不清的说着话……f同学在下课后主动找田师探讨问题，并问到了田师所说的那篇文章。再次感谢f同学！现在请大家欣赏片段：
 
@@ -247,7 +250,7 @@ Ps:值得注意的是，蒙日定理是我们考试的内容。所以在考试�
 
 2021年12月31日：元旦晚会。兲史作为特邀嘉宾又一次出现了，只不过，是被挂到黑板上了（再次乐）
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=2cf133e930c6a7efb926a82ecdfbafe9/188b8a3eb80e7bec9f0795d7692eb9389a506bb7.jpg?tbpicau=2024-10-10-05_e8a8f616d671ff93fd177b97b0059ccc)
+<img src="../assets/2021end.jpg">
 
 2022年1月8日，在兲史课上，大家得知了放假的消息。
 
@@ -259,13 +262,13 @@ Ps:值得注意的是，蒙日定理是我们考试的内容。所以在考试�
 
 > （👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌👌）
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=02bf74a44af431adbcd243317b36ac0f/72c950f3b211931300766e8623380cd791238d5f.jpg?tbpicau=2024-10-10-05_98fa664b8058047d2f012d66b71b7f02)
+<img src="../assets/qinsheng1.jpg">
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=1ac4d8dfcb1001e94e3c1407880e7b06/b6570a45ad3459820bbf74a44af431adcbef845f.jpg?tbpicau=2024-10-10-05_68b0f74645a999ff52bb47c566a4a966)
+<img src="../assets/qinsheng2.jpg">
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=4d3d41dba11190ef01fb92d7fe1b9df7/ac9aaae83901213f7006dfea12e736d12f2e955f.jpg?tbpicau=2024-10-10-05_281a96be942609e1b5cece4379b860f4)
+<img src="../assets/qinsheng3.jpg">
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=39f63d23fa315c6043956be7bdb1cbe6/574c0ceece1b9d1624f20b57b5deb48f8c54645f.jpg?tbpicau=2024-10-10-05_9cbcd35d7f99428f17f2b53dac3d4498)
+<img src="../assets/qinsheng4.jpg">
 
 ## 12 又一个春天
 
@@ -348,8 +351,6 @@ ts突然开窍，顺着他们的话茬就说下去了。
 
 当天早上，ts一如既往地让别人捎带他。ts先坐l同学家的车到郑州，又坐f同学家的车回安阳。🤮ts大约在10时许到了郑州，逆码到了就要吃，这真是猪-猡！他们10多号人选了个信阳餐馆，花了1k+。鼠鼠自然没去咯~鼠鼠在候车室给他们打电话怒斥ts，爽到爆炸！
 
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=0b175e05358da9774e2f86238050f872/d6bc04c279310a55f29e43c2f14543a9832610dd.jpg?tbpicau=2024-10-10-05_fc61532550b82b92b302b2a263f58292)
-
 p.s.田师当天上午在省博物院参观捏。
 
 > 家长评论：孩子们过了一个难忘的中秋节+教师节！
@@ -366,15 +367,13 @@ p.s.田师当天上午在省博物院参观捏。
 
 欲买桂花同载酒，终不似，少年游。
 
-补档ts核酸照
-
-![img](http://tiebapic.baidu.com/forum/w%3D580/sign=a7132ed7b103918fd7d13dc2613d264b/6d82c5071d950a7bc63c37f34cd162d9f2d3c90c.jpg?tbpicau=2024-10-10-05_14d085801e7ad0d74a28842acefdd853)
-
 ---
 
-[^1]: [田振兴 (ayyz.cn)](http://www.ayyz.cn/overview/laoshijierikuaile/2018-09-10/1489.html)
-[^2]: [文章全集](../dedication/total.md)
-[^3]: [对一中数学竞赛老师有看法的进！！！！！！！！【安阳一中吧】_百度贴吧 (baidu.com)](https://tieba.baidu.com/p/738761989)
-[^4]: [平行线分线段成比例定理_百度百科 (baidu.com)](https://baike.baidu.com/item/平行线分线段成比例定理/4166123)
-[^5]: [振兴李炜赋 | 107Studio (a107studio.github.io)](https://a107studio.github.io/docs/article/total.html#振兴李炜赋)
-[^6]: [玥蝶 - 简书 (jianshu.com)](https://www.jianshu.com/p/a7ded48d4dd6)
+
+
+> 1. [田振兴 (ayyz.cn)](http://www.ayyz.cn/overview/laoshijierikuaile/2018-09-10/1489.html)
+> 2. [文章全集](../dedication/total.md)
+> 3. [对一中数学竞赛老师有看法的进！！！！！！！！【安阳一中吧】_百度贴吧 (baidu.com)](https://tieba.baidu.com/p/738761989)
+> 4. [平行线分线段成比例定理_百度百科 (baidu.com)](https://baike.baidu.com/item/平行线分线段成比例定理/4166123)
+> 5. [振兴李炜赋 | 107Studio (a107studio.github.io)](https://a107studio.github.io/docs/article/total.html#振兴李炜赋)
+> 6. [玥蝶 - 简书 (jianshu.com)](https://www.jianshu.com/p/a7ded48d4dd6)
