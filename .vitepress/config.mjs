@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "107Studio",
-  description: "A VitePress Site",
+  description: "An Open-Source, Cross-Platform Archive of 107 Studio, powered by VitePress",
   base: "/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
@@ -12,6 +12,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: 'WB专区', items: [
+        { text: 'WB首页', link: 'docs/wangbin/index' },
         { text: '圣言录', link: 'docs/wangbin/essay' },
         { text: '小说', link: 'docs/wangbin/novel' },
         { text: '学士学位论文', link: 'docs/wangbin/thesis' }
