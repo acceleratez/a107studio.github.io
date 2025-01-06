@@ -17,7 +17,7 @@ features:
   - icon: 1
     title: WB专区
     details: 记录了许多WB老师青涩时期的内容。
-    link: docs/wangbin/essay
+    link: docs/wangbin/
   - icon: 2
     title: 呕心沥血集
     details: 包含所有文章，包括某些增补文章。倾注所有心血而成。
