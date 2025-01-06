@@ -10,7 +10,7 @@
 
 > [蔡教版课文+注释全收录](./annotation.md)
 
-| **[第一册](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer1.html)** | **[第二册](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer2.html)** | **[第三册]((https://a107studio.github.io/teaching-material/Pdfvital/web/viewer3.html))** |
+| **[第一册](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer1.html)** | **[第二册](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer2.html)** | **[第三册](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer3.html)** |
 | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | **[选修1——语言的力量](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer4.html)** | **[选修2——优秀诗词文章选](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer5.html)** | [选修3——奇人共赏](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer6.html) |
 | [选修4——披沙拣金1](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer7.html) | [选修5——披沙拣金2](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer8.html) | [选修6——群星荟萃](https://a107studio.github.io/teaching-material/Pdfvital/web/viewer9.html) |
