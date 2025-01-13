@@ -4,14 +4,8 @@ layout: home
 
 hero:
   name: "107Studio"
-  text: "A VitePress Site"
-  tagline: My great project tagline
-  image:
-    src: /background.svg
-  actions:
-    - theme: brand
-      text: 下载文献
-      link: /docs/download
+  text: "Offical Website"
+  tagline: An Open-Source, Cross-Platform Archive of 107 Studio, powered by VitePress.
 
 features:
   - icon: 1
@@ -34,4 +28,7 @@ features:
     title: 其余杂项
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
     link: docs/other
+  - icon: 6
+    title: 下载文献
+    link: /docs/download
 ---
